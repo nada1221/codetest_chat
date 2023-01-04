@@ -22,3 +22,4 @@ const analytics = getAnalytics(app);
 export const authService = getAuth(app);
 export const database = getDatabase(app);
 export const storage = getStorage(app);
+export default firebase;
